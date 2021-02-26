@@ -7,3 +7,4 @@ User-agent: *
 Disallow: /illuminati
 Disallow: /fonts
 Disallow: /test
+Disallow: /red-panda
