@@ -1,0 +1,9 @@
+# Welcome to the POLARIS183 robots.txt file!
+# For a full list of directories, please visit https://github.com/POLARIS183.
+# Thanks!
+
+# Group 1
+User-agent: *
+Disallow: /illuminati
+Disallow: /fonts
+Disallow: /test
